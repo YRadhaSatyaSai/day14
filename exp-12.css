@@ -1,0 +1,29 @@
+*{
+    color: antiquewhite;
+}
+.radha{
+    width: 150px;
+    height: 150px;
+    border:2px solid #291ad3;
+    margin: 10px 20px;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border:2px solid rgb(117, 0, 128);
+    margin:0px 20px; 
+    border-radius: 50%;
+
+}
+.satya{
+    width: 150px;
+    height: 150px;
+    border:2px solid rgb(117, 0, 128);
+    margin:0px 20px;    
+}
+.sai{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    margin: -100px 50px;
+}
